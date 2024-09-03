@@ -5,6 +5,8 @@ import java.util.Arrays;
 public class SelectionSort {
     
     public static void main(String[] args) {
+
+        //Added a comment
     
         int[] arr = {18,55,44,79,1,5,0,99};    
         //ascending order = [0,1,5,18,44,55,79,99]
