@@ -4,6 +4,12 @@ import java.util.Arrays;
 
 public class SelectionSort {
     
+    /**
+     * SELECTION SORT -> Picking one element and comparing with the rest to bring the smallest number to the initial index
+     * Time complexity: O(n^2)  
+     * Space complexity: O(1)
+     */
+
     public static void main(String[] args) {
 
         //Added a comment
