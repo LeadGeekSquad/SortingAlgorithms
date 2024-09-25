@@ -15,23 +15,23 @@ In-place sorting algorithms are algorithms that sort data without needing extra 
 1. ### Bubble Sort
 Bubble Sort is a simple comparison-based algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
 
-Time Complexity: O(n²)
-Space Complexity: O(1)
-Bubble Sort Explanation and Code: SortingAlgorithm/BubbleSort.java
+- Time Complexity: O(n²)
+- Space Complexity: O(1)
+- Bubble Sort Explanation and Code: SortingAlgorithm/BubbleSort.java
 
 2. ### Selection Sort
 Selection Sort is an algorithm that divides the list into a sorted and an unsorted region. It repeatedly selects the smallest (or largest) element from the unsorted region and moves it to the end of the sorted region.
 
-Time Complexity: O(n²)
-Space Complexity: O(1)
-Selection Sort Explanation and Code: SortingAlgorithm/SelectionSort.java
+- Time Complexity: O(n²)
+- Space Complexity: O(1)
+- Selection Sort Explanation and Code: SortingAlgorithm/SelectionSort.java
 
 3. ### Insertion Sort
 Insertion Sort builds the sorted array one item at a time by repeatedly picking an element and inserting it into its correct position among the previously sorted elements.
 
-Time Complexity: O(n²)
-Space Complexity: O(1)
-Insertion Sort Explanation and Code: SortingAlgorithm/InsertionSort.java
+- Time Complexity: O(n²)
+- Space Complexity: O(1)
+- Insertion Sort Explanation and Code: SortingAlgorithm/InsertionSort.java
 
 
 ## How to Use
@@ -43,8 +43,8 @@ https://github.com/LeadGeekSquad/SortingAlgorithms.git
 cd SortingAlgorithms/SortingAlgorithm
 
 3. Run the sorting algorithm of your choice (assuming you have Java compiler installed):
-javac SelectionSort.java
-java SelectionSort
+- javac SelectionSort.java
+- java SelectionSort
 
 
 ## Why Use This Repository?
