@@ -8,6 +8,9 @@ public class SelectionSort {
      * SELECTION SORT -> Picking one element and comparing with the rest to bring the smallest number to the initial index
      * Time complexity: O(n^2)  
      * Space complexity: O(1)
+     * I have created various methods for exercise purpose. 
+     * For simplicity, first refer to this method selectionSortAscendingOrderFromFirstElement(int[] arr)
+     * and then try understand what are doing with the other methods.
      */
 
     public static void main(String[] args) {
